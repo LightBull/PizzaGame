@@ -1,0 +1,17 @@
+C:\Users\porro\source\repos\PizzaGame\bin\Debug\net8.0-windows\PizzaGame.exe
+C:\Users\porro\source\repos\PizzaGame\bin\Debug\net8.0-windows\PizzaGame.deps.json
+C:\Users\porro\source\repos\PizzaGame\bin\Debug\net8.0-windows\PizzaGame.runtimeconfig.json
+C:\Users\porro\source\repos\PizzaGame\bin\Debug\net8.0-windows\PizzaGame.dll
+C:\Users\porro\source\repos\PizzaGame\bin\Debug\net8.0-windows\PizzaGame.pdb
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.FrmMain.resources
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.ucPopUp.resources
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.csproj.GenerateResource.cache
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.AssemblyInfoInputs.cache
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.AssemblyInfo.cs
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.csproj.CoreCompileInputs.cache
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.dll
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\refint\PizzaGame.dll
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.pdb
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\PizzaGame.genruntimeconfig.cache
+C:\Users\porro\source\repos\PizzaGame\obj\Debug\net8.0-windows\ref\PizzaGame.dll
